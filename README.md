@@ -7,4 +7,4 @@ Gathering the data resources
 
 Data-preprocessing
 
-Applying the Ml algo such as Decision Tree, Knn
+Applying the Ml algo such as Decision Tree,Linear Regression, Knn
